@@ -22,7 +22,7 @@ public class App extends PApplet {
        
         fill(92, 19, 19);
         stroke(46, 29, 29); 
-        strokeWeight(4); 
+        strokeWeight(4);  
         rect(200, 250, 150, 150); // Draw rectangle
 
         stroke(4, 124, 204); // Set line color 
